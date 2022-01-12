@@ -1,0 +1,6 @@
+hre
+hre/
+const hre = require("hardhat");
+.help
+hardhat.web3
+web3
